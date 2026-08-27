@@ -152,12 +152,12 @@ Instead of only showing the source code, CodeFlow helps answer:
 - Interactive flowchart nodes.
 - Step-by-step code execution.
 - Complexity visualization.
-- Code optimization suggestions
-- AI-generated documentation
-- Exportable flowcharts
-- Improved AST analysis
-- Syntax highlighting
-- Code comparison
+- Code optimization suggestions.
+- AI-generated documentation.
+- Exportable flowcharts.
+- Improved AST analysis.
+- Syntax highlighting.
+- Code comparison.
 
 ## Author
 
