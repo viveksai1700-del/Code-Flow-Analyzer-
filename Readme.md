@@ -148,7 +148,7 @@ Instead of only showing the source code, CodeFlow helps answer:
 
 ## Future Improvements
 
-- Support for additional programming languages
+- Support for additional programming languages.
 - Interactive flowchart nodes
 - Step-by-step code execution
 - Complexity visualization
