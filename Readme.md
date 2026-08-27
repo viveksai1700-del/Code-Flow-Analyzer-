@@ -151,7 +151,7 @@ Instead of only showing the source code, CodeFlow helps answer:
 - Support for additional programming languages.
 - Interactive flowchart nodes.
 - Step-by-step code execution.
-- Complexity visualization
+- Complexity visualization.
 - Code optimization suggestions
 - AI-generated documentation
 - Exportable flowcharts
