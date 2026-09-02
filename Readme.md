@@ -42,10 +42,10 @@ The assistant is designed to work with a locally running Qwen3 model.
 
 Provides structural metrics including:
 
-- Lines of code
-- Number of functions
+- Lines of code.
+- Number of functions.
 - Number of loops
-- Number of conditions
+- Number of conditions.
 - Number of variables
 - Complexity estimate
 - Maintainability estimate
