@@ -44,10 +44,10 @@ Provides structural metrics including:
 
 - Lines of code.
 - Number of functions.
-- Number of loops
+- Number of loops.
 - Number of conditions.
-- Number of variables
-- Complexity estimate
+- Number of variables.
+- Complexity estimate.
 - Maintainability estimate
 - Return statements
 - Output statements
