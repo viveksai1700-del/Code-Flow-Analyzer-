@@ -48,9 +48,9 @@ Provides structural metrics including:
 - Number of conditions.
 - Number of variables.
 - Complexity estimate.
-- Maintainability estimate
-- Return statements
-- Output statements
+- Maintainability estimate.
+- Return statements.
+- Output statements.
 
 ## Tech Stack
 
